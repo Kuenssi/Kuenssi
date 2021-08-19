@@ -1,16 +1,24 @@
-### Hi there 👋
+#### 📊 Stats
+![Kuenssi Profile Stats](https://github-readme-stats.vercel.app/api?username=Kuenssi&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true)
+![Kuenssi Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuenssi&layout=compact&theme=dark&icon_color=0075ff&show_icons=true&langs_count=10)
+[![Kuenssi Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kuenssi&theme=dark&layout=compact&langs_count=10)](https://wakatime.com/@Kuenssi)
 
-<!--
-**Kuenssi/Kuenssi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👷 Check out what I'm currently working on
 
-Here are some ideas to get you started:
+- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - Event Storming to Microservices support (2 days ago)
+- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) -  (6 months ago)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 My latest projects
+
+- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - 
+
+#### 👯 Check out some of my recent followers
+
+- [ClemensEmme](https://github.com/ClemensEmme)
+- [KosrenDQ](https://github.com/KosrenDQ)
+- [nikeee](https://github.com/nikeee)
+- [Clashsoft](https://github.com/Clashsoft)
+- [distrustME](https://github.com/distrustME)
+
+#### 📇 Want your own profile-readme?
+Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
