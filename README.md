@@ -6,11 +6,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - Event Storming to Microservices support (2 days ago)
-- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) -  (6 months ago)
+- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program. (6 months ago)
 
 #### 🌱 My latest projects
 
-- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - 
+- [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program.
 
 #### 👯 Check out some of my recent followers
 
