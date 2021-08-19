@@ -1,3 +1,8 @@
+#### 📊 Stats
+![Kuenssi Profile Stats](https://github-readme-stats.vercel.app/api?username=Kuenssi&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true)
+![Kuenssi Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuenssi&layout=compact&theme=dark&icon_color=0075ff&show_icons=true&langs_count=10)
+[![Kuenssi Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kuenssi&theme=dark&layout=compact&langs_count=10)](https://wakatime.com/@Kuenssi)
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
