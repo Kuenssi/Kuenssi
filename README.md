@@ -8,7 +8,7 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 
 #### 👷 Check out what I'm currently working on
 
-- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - Event Storming to Microservices support (4 weeks ago)
+- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - Event Storming to Microservices support (today)
 - [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program. (6 months ago)
 
 #### 🌱 My latest projects
