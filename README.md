@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/3a139633-f424-4b91-be37-20d00ddbc523.svg)](https://wakatime.com/@3a139633-f424-4b91-be37-20d00ddbc523) (From: 19th August 2021  Until: Now
+
 #### 📊 Stats
 ![Kuenssi Profile Stats](https://github-readme-stats.vercel.app/api?username=Kuenssi&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true)
 ![Kuenssi Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuenssi&layout=compact&theme=dark&icon_color=0075ff&show_icons=true&langs_count=10)
