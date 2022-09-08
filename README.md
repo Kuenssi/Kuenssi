@@ -21,11 +21,11 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 
 #### 👯 Check out some of my recent followers
 
+- [ChristophLandow](https://github.com/ChristophLandow)
 - [nataschu](https://github.com/nataschu)
 - [ClemensEmme](https://github.com/ClemensEmme)
 - [KosrenDQ](https://github.com/KosrenDQ)
 - [nikeee](https://github.com/nikeee)
-- [Clashsoft](https://github.com/Clashsoft)
 
 #### 📇 Want your own profile-readme?
 Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
