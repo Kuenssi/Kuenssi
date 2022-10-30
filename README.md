@@ -13,7 +13,6 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - fulibWorkflows provides an analyzer for event modelling (4 months ago)
 - [Kuenssi/fulibWorkflows-editor](https://github.com/Kuenssi/fulibWorkflows-editor) - web editor for fulibWorkflows, based on codemirror (7 months ago)
 - [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program. (10 months ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 year ago)
 
 #### 🌱 My latest projects
 
