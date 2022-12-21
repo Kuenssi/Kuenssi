@@ -8,6 +8,8 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 
 #### 👷 Check out what I'm currently working on
 
+- [Kuenssi/seminarWS22_frontend](https://github.com/Kuenssi/seminarWS22_frontend) -  (today)
+- [Kuenssi/seminarWS22_backend](https://github.com/Kuenssi/seminarWS22_backend) -  (today)
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - fulibWorkflows provides an analyzer for event modelling (4 weeks ago)
 - [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program. (1 month ago)
 - [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) - Vorlage für Dokumentationen und Abschlussarbeiten (3 months ago)
@@ -17,6 +19,8 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 
 #### 🌱 My latest projects
 
+- [Kuenssi/seminarWS22_backend](https://github.com/Kuenssi/seminarWS22_backend) - 
+- [Kuenssi/seminarWS22_frontend](https://github.com/Kuenssi/seminarWS22_frontend) - 
 - [Kuenssi/bachelor-thesis](https://github.com/Kuenssi/bachelor-thesis) - My Bachelor-Thesis titled &#34;Tool assisted Event Storming for Requirements Engineering - fulibWorkflows&#34;
 - [Kuenssi/fulibWorkflows-editor](https://github.com/Kuenssi/fulibWorkflows-editor) - web editor for fulibWorkflows, based on codemirror
 - [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program.
