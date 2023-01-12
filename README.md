@@ -15,7 +15,7 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 - [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) - Vorlage für Dokumentationen und Abschlussarbeiten (3 months ago)
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app. (6 months ago)
 - [Kuenssi/fulibWorkflows-editor](https://github.com/Kuenssi/fulibWorkflows-editor) - web editor for fulibWorkflows, based on codemirror (10 months ago)
-- [Kuenssi/bachelor-thesis](https://github.com/Kuenssi/bachelor-thesis) - My Bachelor-Thesis titled &#34;Tool assisted Event Storming for Requirements Engineering - fulibWorkflows&#34; (10 months ago)
+- [Kuenssi/bachelor-thesis](https://github.com/Kuenssi/bachelor-thesis) - My Bachelor-Thesis titled &#34;Tool assisted Event Storming for Requirements Engineering - fulibWorkflows&#34; (11 months ago)
 
 #### 🌱 My latest projects
 
