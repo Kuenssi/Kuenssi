@@ -8,8 +8,8 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 
 #### 👷 Check out what I'm currently working on
 
-- [Kuenssi/seminar_SS23_frontend](https://github.com/Kuenssi/seminar_SS23_frontend) -  (2 days ago)
-- [Kuenssi/seminar_SS23_backend](https://github.com/Kuenssi/seminar_SS23_backend) -  (2 days ago)
+- [Kuenssi/seminar_SS23_frontend](https://github.com/Kuenssi/seminar_SS23_frontend) -  (3 days ago)
+- [Kuenssi/seminar_SS23_backend](https://github.com/Kuenssi/seminar_SS23_backend) -  (3 days ago)
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - fulibWorkflows provides an analyzer for event modelling (5 months ago)
 - [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program. (6 months ago)
 - [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) - Vorlage für Dokumentationen und Abschlussarbeiten (7 months ago)
