@@ -12,7 +12,7 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 - [Kuenssi/seminar_SS23_backend](https://github.com/Kuenssi/seminar_SS23_backend) -  (1 month ago)
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - fulibWorkflows provides an analyzer for event modelling (6 months ago)
 - [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program. (7 months ago)
-- [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) - Vorlage für Dokumentationen und Abschlussarbeiten (8 months ago)
+- [sekassel-research/thesis-template](https://github.com/sekassel-research/thesis-template) - Vorlage für Dokumentationen und Abschlussarbeiten (9 months ago)
 - [fujaba/fulib.org](https://github.com/fujaba/fulib.org) - The fulib web app: fulibScenarios, fulibWorkflows, Docs, Projects and Assignments in one app. (11 months ago)
 
 #### 🌱 My latest projects
