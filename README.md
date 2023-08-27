@@ -25,7 +25,7 @@ src="https://activity-graph.herokuapp.com/graph?username=Kuenssi&bg_color=141414
 #### 👯 Check out some of my recent followers
 
 - [Giulcoo](https://github.com/Giulcoo)
-- [UeberallGebannt](https://github.com/UeberallGebannt)
+- [LeStegii](https://github.com/LeStegii)
 - [b1ck](https://github.com/b1ck)
 - [ChristophLandow](https://github.com/ChristophLandow)
 - [nataschu](https://github.com/nataschu)
