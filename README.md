@@ -7,8 +7,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kuenssi/seminar_SS23_frontend](https://github.com/Kuenssi/seminar_SS23_frontend) -  (5 months ago)
-- [Kuenssi/seminar_SS23_backend](https://github.com/Kuenssi/seminar_SS23_backend) -  (5 months ago)
+- [Kuenssi/seminar_SS23_frontend](https://github.com/Kuenssi/seminar_SS23_frontend) -  (6 months ago)
+- [Kuenssi/seminar_SS23_backend](https://github.com/Kuenssi/seminar_SS23_backend) -  (6 months ago)
 - [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - fulibWorkflows provides an analyzer for event modelling (11 months ago)
 - [Kuenssi/DSPC](https://github.com/Kuenssi/DSPC) - A little Calculator for The Dyson Sphere Program. (11 months ago)
 
