@@ -9,7 +9,7 @@
 
 - [Kuenssi/seminar_SS23_frontend](https://github.com/Kuenssi/seminar_SS23_frontend) -  (6 months ago)
 - [Kuenssi/seminar_SS23_backend](https://github.com/Kuenssi/seminar_SS23_backend) -  (6 months ago)
-- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - fulibWorkflows provides an analyzer for event modelling (11 months ago)
+- [fujaba/fulibWorkflows](https://github.com/fujaba/fulibWorkflows) - fulibWorkflows provides an analyzer for event modelling (1 year ago)
 
 #### 🌱 My latest projects
 
