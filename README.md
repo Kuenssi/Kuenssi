@@ -7,8 +7,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Kuenssi/seminar_SS23_frontend](https://github.com/Kuenssi/seminar_SS23_frontend) -  (1 year ago)
-- [Kuenssi/seminar_SS23_backend](https://github.com/Kuenssi/seminar_SS23_backend) -  (1 year ago)
 
 #### 🌱 My latest projects
 
